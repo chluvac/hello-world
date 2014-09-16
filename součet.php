@@ -20,7 +20,7 @@ function delitelne5($cislo){
 	}
 }
 
-for($cislo; $cislo < 1000; $cislo++){
+for($cislo; $cislo < 1000; ++$cislo){
 	delitelne3($cislo);
 	if($delitelne3 == FALSE){
 		delitelne5;
