@@ -2,7 +2,7 @@
 <?php
 
 if(!isset($cislo)){
-$cislo = 0;
+$cislo = 0; ///////m
 }
 
 $soucet = 0;
